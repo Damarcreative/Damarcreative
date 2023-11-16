@@ -4,4 +4,4 @@
 
 🤗 https://huggingface.co/DamarJati
 
-orcid: "https://orcid.org/0009-0002-0758-2712"
+https://orcid.org/0009-0002-0758-2712
